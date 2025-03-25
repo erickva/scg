@@ -2,7 +2,7 @@
 
 ## Tarefas
 
-### Análise de UX (Experiência do Usuário)
+### [Análise de UX (Experiência do Usuário)](analise_ux.md)
 - [x] Analisar navegabilidade do site
 - [x] Avaliar design e estética
 - [x] Verificar responsividade em diferentes dispositivos
@@ -10,7 +10,7 @@
 - [x] Avaliar tempo de carregamento
 - [x] Verificar acessibilidade
 
-### Análise de Marketing
+### [Análise de Marketing](analise_marketing.md)
 - [x] Avaliar posicionamento da marca
 - [x] Analisar chamadas para ação (CTAs)
 - [x] Verificar estratégias de conversão
